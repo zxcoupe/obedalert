@@ -1,4 +1,5 @@
 Этот скрипт надо запускать в шедулере ежедневно в 13:00 и т.д.
+Чтоб запускались неподписанные скрипты, сначала надо дать команду с консоли: PowerShell -ExecutionPolicy Unrestricted
 
 Доп. примеры
 https://stackoverflow.com/questions/56032478/how-do-you-get-windows-powershell-to-play-a-sound-after-bat-job-has-finished-ru
