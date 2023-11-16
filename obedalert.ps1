@@ -3,14 +3,14 @@ $Voice = New-Object System.Speech.Synthesis.SpeechSynthesizer
 $Voice.GetInstalledVoices().VoiceInfo.Name
 $Voice.SelectVoice('IVONA 2 Tatyana OEM')
 
-$Voice.Speak("Внимание, время обеда
+$Voice.Speak("Внимание, в здании обед
 `
-Внимание, время обеда`
+Внимание, в здании обед`
 `
-Внимание, время обеда`
+Внимание, в здании обед`
 `
-Внимание, время обеда`
+Внимание, в здании обед`
 `
-Внимание, время обеда`
+Внимание, в здании обед`
 
 ")
